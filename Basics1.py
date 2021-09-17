@@ -3,6 +3,7 @@ import datetime
 # Print
 #print(datetime.datetime.now())
 
+#####################################################################################################
 
 # Variables
 #dateTime = datetime.datetime.now()
@@ -16,6 +17,8 @@ import datetime
 
 #print("String: ", vString, " Integer: ", vInt, " Float: ", vFloat)
 
+#####################################################################################################
+
 # Lists
 #studenGrades = [40, 40.2, 50, 50.44, 60]
 #for grade in studenGrades:
@@ -28,6 +31,8 @@ import datetime
 # dir
 # Check wat can be done with a list
 #print(dir(studenGrades))
+
+#####################################################################################################
 
 # Dictionary Types (Object)
 #student_grades = {"Marry": 40, "John": 50}

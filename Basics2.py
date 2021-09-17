@@ -1,4 +1,4 @@
-temps = [10, 20, 30.2, 19, 15, 14]
+#temps = [10, 20, 30.2, 19, 15, 14]
 
 # Append
 #temps.append(20)
@@ -26,16 +26,19 @@ temps = [10, 20, 30.2, 19, 15, 14]
 #print(msg[-1])
 #print(msg[1::])
 
+#####################################################################################################
+
 # Access Dictionary
 #student_grades = {"Marry": 40, "John": 50, "Peter": 10}
 #print(student_grades["Marry"])
 
+#####################################################################################################
 # Converting Lists
 
 # List to tuple
 #myList = [10, 20, 30]
 #myTuple = tuple(myList)
-print(myTuple)
+#print(myTuple)
 # Tuple to List
 #myTuple = (10, 20, 30)
 #myList = list(myTuple)
